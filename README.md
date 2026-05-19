@@ -46,19 +46,19 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-mutahhar-khan-562070378/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-mutahhar-khan-562070378/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+  </a>
 
-<a href="https://github.com/mutahhar-official">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/mutahhar-official" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="60" />
+  </a>
+
+  <a href="https://mutahhar-portfolio.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/domain.png" height="52" />
+  </a>
 </p>
-
-<a href="https://mutahhar-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=googleearth&logoColor=white"/>
-</a>
 
 ---
 
