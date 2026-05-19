@@ -11,11 +11,11 @@
 <br><h1 align="center">I'm Muhammad Mutahhar Khan</h1>
 
 <h3 align="center">
-  Computer Systems Engineer | C/C++ | Python | Graphics Designer (+ UI/UX) | Frontend Developer
+  Computer Systems Engineer | C/C++ & Python Programmer | Graphics Designer (+ UI/UX) | Frontend Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;C/C%2B%2B+Developer;Frontend+Developer;Graphics+Designer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3800&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;C/C%2B%2B+Developer;Frontend+Developer;Graphics+Designer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -26,14 +26,19 @@
 - 💻 Frontend Developer - now learning Backend and Servers
 - 🌱 Graphics Designer - Certified by Govt. of Pakistan
 - ⚡ Python Developer - Certified by NUST University of Engineering and Technology, Islamabad, Pakistan
-
+- 🗄️   Completed foundational learning in SQL and basics of database concepts (DBMS)
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,nodejs,react,git,github,vscode" />
+
+  <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
+
+  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" height="48"/>
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
