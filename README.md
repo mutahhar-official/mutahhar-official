@@ -55,11 +55,11 @@
   <a href="https://www.linkedin.com/in/muhammad-mutahhar-khan-562070378/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
   </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mutahhar-official" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="60" />
   </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mutahhar-portfolio.vercel.app" target="_blank">
     <img src="https://img.icons8.com/fluency/96/domain.png" height="52" />
   </a>
