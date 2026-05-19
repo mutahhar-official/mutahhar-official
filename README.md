@@ -39,7 +39,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mutahhar-official/mutahhar-official/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mutahhar-official/mutahhar-official/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
