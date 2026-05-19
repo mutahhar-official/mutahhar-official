@@ -2,7 +2,7 @@
 
 <p align="center">
 
-> “Consistency is what transforms average into excellence.”
+> _“Consistency is what transforms average into excellence.”_
 
 </p>
 
@@ -68,3 +68,6 @@
 ---
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
+</p>
