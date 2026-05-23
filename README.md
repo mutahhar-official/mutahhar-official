@@ -83,6 +83,10 @@
   <a href="https://github.com/mutahhar-official" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="60" />
   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/muhammad.mutahhar.khan.2025" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" />
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mutahhar-portfolio.vercel.app" target="_blank">
     <img src="https://img.icons8.com/fluency/96/domain.png" height="52" />
