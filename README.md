@@ -14,11 +14,14 @@
 
 ---
 
+<!-- # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1060,100:0d1117&height=200&section=header&text=Muhammad%20Mutahhar%20Khan&fontSize=52&fontColor=e6edf3&fontAlignY=45&desc=Computer%20Systems%20Engineer&descAlignY=68&descSize=26&descColor=7d8590&animation=fadeIn)</div>
+</div> -->
+
 <br><h1 align="center">I'm Muhammad Mutahhar Khan <br>
 </h1>
 
 <h3 align="center">
-  Computer Systems Engineer | C/C++ & Python Programmer | Graphics Designer (+ UI/UX) | Frontend Developer
+  Computer Systems Engineer | Frontend Developer
 </h3>
 
 ---
@@ -62,8 +65,9 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-official&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-official&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED" height="160"/>   
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="190"/>
+   
 </p>
 
 ---
