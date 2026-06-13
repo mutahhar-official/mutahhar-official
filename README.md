@@ -48,6 +48,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,nodejs,react,git,github,vscode" />
 
+  <a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="46" height="46"/>
+  </a>
+
   <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
 
   <img src="https://img.icons8.com/color/48/adobe-illustrator.png" height="48"/>
@@ -55,20 +59,19 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mutahhar-official/mutahhar-official/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-official&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-official&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution
+
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=mutahhar-official&theme=tokyonight&no-frame=true&row=1&column=7" 
-    width="87%" 
-  />
+  <img src="https://raw.githubusercontent.com/mutahhar-official/mutahhar-official/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
