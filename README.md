@@ -56,7 +56,6 @@
 
 <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED" height="160"/>
-  <img src="https://cdn.simpleicons.org/canva" height="48" alt="Canva"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="190"/> 
 </p>
 
