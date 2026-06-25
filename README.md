@@ -18,7 +18,7 @@
 </h1>
 
 <h3 align="center">
-  Computer Systems Engineer | Frontend Developer
+  Computer Systems Engineer | Frontend Developer | Graphics Designer
 </h3>
 
 ---
@@ -46,7 +46,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,nodejs,react,mysql,git,github,vscode,illustrator" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,react,nodejs,mysql,git,github,vscode,illustrator" />
   <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
 </p>
 
