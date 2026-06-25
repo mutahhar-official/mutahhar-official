@@ -14,9 +14,6 @@
 
 ---
 
-<!-- # <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1060,100:0d1117&height=200&section=header&text=Muhammad%20Mutahhar%20Khan&fontSize=52&fontColor=e6edf3&fontAlignY=45&desc=Computer%20Systems%20Engineer&descAlignY=68&descSize=26&descColor=7d8590&animation=fadeIn)</div>
-</div> -->
-
 <br><h1 align="center">I'm Muhammad Mutahhar Khan <br>
 </h1>
 
@@ -49,15 +46,8 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,nodejs,react,git,github,vscode" />
-
-  <a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="46" height="46"/>
-  </a>
-
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,nodejs,react,mysql,git,github,vscode,illustrator" />
   <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
-
-  <img src="https://img.icons8.com/color/48/adobe-illustrator.png" height="48"/>
 </p>
 
 ---
@@ -65,9 +55,9 @@
 ## 📊 Stats
 
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED" height="160"/>   
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="190"/>
-   
+        <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED" height="160"/>
+  <img src="https://cdn.simpleicons.org/canva" height="48" alt="Canva"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="190"/> 
 </p>
 
 ---
@@ -105,4 +95,7 @@
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mutahhar-officialE&style=flat&color=2E9EF7" alt="Profile views"/>
 </p>
