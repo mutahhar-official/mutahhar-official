@@ -25,7 +25,7 @@
 
 ## 🌟 About Me
 
-- 🎓 Computer Systems Engineering Student - NED University of Engineering and Technology, Karachi, Pakistan
+- 🎓 Computer and Information Systems Engineering Student - NED University of Engineering and Technology, Karachi, Pakistan
 - 💻 Frontend Developer - now learning Backend and Servers
 - 🎨 Graphics Designer - Certified by Govt. of Pakistan
 - ⚡ Python Developer - Certified by NUST University of Engineering and Technology, Islamabad, Pakistan
