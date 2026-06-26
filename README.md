@@ -18,7 +18,7 @@
 </h1>
 
 <h3 align="center">
-  Computer Systems Engineer | Frontend Developer | Graphics Designer
+  Computer Information Systems Engineer | Frontend Developer | Graphics Designer
 </h3>
 
 ---
