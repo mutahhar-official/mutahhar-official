@@ -55,8 +55,11 @@
 ## 📊 Stats
 
 <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mutahhar-official&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=7C3AED" height="160"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutahhar-official&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4" height="190"/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mutahhar-official&theme=tokyo-night&hide_border=true" height=240px/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mutahhar-official&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mutahhar-official&theme=tokyonight" />
 </p>
 
 ---
