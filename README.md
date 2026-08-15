@@ -18,7 +18,7 @@
 </h1>
 
 <h3 align="center">
-  Computer Information Systems Engineer | Frontend Developer | Graphics Designer
+  Computer Information Systems Engineer | AI Developer | Frontend Developer | Graphics Designer
 </h3>
 
 ---
@@ -26,17 +26,18 @@
 ## 🌟 About Me
 
 - 🎓 Computer and Information Systems Engineering Student - NED University of Engineering and Technology, Karachi, Pakistan
+- 🤖 AI Developer - Certified by IBM
 - 💻 Frontend Developer - now learning Backend and Servers
 - 🎨 Graphics Designer - Certified by Govt. of Pakistan
-- ⚡ Python Developer - Certified by NUST University of Engineering and Technology, Islamabad, Pakistan
+- ⚡ Python Developer - Certified by Google & NUST University of Engineering and Technology, Islamabad, Pakistan
 <details>
 <summary>✨ More About Me - Drop Down</summary>
 
 <br>
 
+- 🤖 AI Agents and Chatbots Developer
 - 🖥️ C/C++ Programmer
 - 🎥 Video Editor
-- 🤖 Learning how to build real world AI Agents
 -  🗄️  Completed foundational learning in SQL and basics of database concepts (DBMS)
    
 </details>
@@ -45,8 +46,23 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,react,nodejs,mysql,git,github,vscode,illustrator" />
+<h3 align="left">Languages</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,react,nodejs,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
+</p>
+
+<h3 align="left">Tools</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
+</p>
+
+<h3 align="left">Designing</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=illustrator" />
   <img src="https://img.icons8.com/color/48/canva.png" height="48"/>
 </p>
 
