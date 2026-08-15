@@ -49,7 +49,7 @@
 <h3 align="left">Languages</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,react,nodejs,mysql,vercel" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,react,nodejs,mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
 </p>
 
