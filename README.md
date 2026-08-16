@@ -44,20 +44,29 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 💻 Tech Stack:
 
 <h3 align="left">Languages</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,react,nodejs,mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" />
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Pylint](https://img.shields.io/badge/Pylint-3776AB.svg?style=for-the-badge&logoColor=white)
 
 <h3 align="left">Tools</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel" />
-</p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
+<!-- ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) -->
 
 <h3 align="left">Designing</h3>
 
@@ -90,23 +99,26 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
+
+  <a href="mailto:mutahhar.k1207@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/muhammad-mutahhar-khan-562070378/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- <a href="https://github.com/mutahhar-official" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="60" />
-  </a> -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://mutahhar-portfolio.vercel.app" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/domain.png" height="52" />
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.facebook.com/muhammad.mutahhar.khan.2025" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="50" />
-</a>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
 </p>
+
 
 ---
 
